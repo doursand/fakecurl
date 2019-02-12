@@ -1,4 +1,7 @@
 {
-  "predictions":[{"horizontal_flip":"FALSE","rotation":"C180"}],
-  "success":true
-  } 
+	"predictions": [{
+		"horizontal_flip": "FALSE",
+		"rotation": "C180"
+	}],
+	"success": true
+}
